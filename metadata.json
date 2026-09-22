@@ -1,0 +1,6 @@
+{
+  "name": "Crown & Commons",
+  "description": "Medieval overhead isometric strategy simulation inspired by Townsmen and classic city builders with living villagers, deep production chains, seasons, and kingdom wars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

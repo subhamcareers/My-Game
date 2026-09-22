@@ -1,0 +1,65 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Castle Base & Battlements -->
+    <!-- Center Castle Keep -->
+    <path
+        android:fillColor="#E6C280"
+        android:pathData="M32,48 L76,48 L76,82 L32,82 Z" />
+    <!-- Center Castle shadow / depth -->
+    <path
+        android:fillColor="#C69E58"
+        android:pathData="M54,48 L76,48 L76,82 L54,82 Z" />
+    <!-- Left Tower -->
+    <path
+        android:fillColor="#D8AF67"
+        android:pathData="M24,38 L36,38 L36,84 L24,84 Z" />
+    <!-- Right Tower -->
+    <path
+        android:fillColor="#B88E44"
+        android:pathData="M72,38 L84,38 L84,84 L72,84 Z" />
+    <!-- Left Tower Battlements -->
+    <path
+        android:fillColor="#EED49A"
+        android:pathData="M22,34 L26,34 L26,38 L28,38 L28,34 L32,34 L32,38 L34,38 L34,34 L38,34 L38,40 L22,40 Z" />
+    <!-- Right Tower Battlements -->
+    <path
+        android:fillColor="#CBA255"
+        android:pathData="M70,34 L74,34 L74,38 L76,38 L76,34 L80,34 L80,38 L82,38 L82,34 L86,34 L86,40 L70,40 Z" />
+    <!-- Center Keep Battlements -->
+    <path
+        android:fillColor="#FBE3A8"
+        android:pathData="M36,44 L42,44 L42,48 L46,48 L46,44 L52,44 L52,48 L56,48 L56,44 L62,44 L62,48 L66,48 L66,44 L72,44 L72,50 L36,50 Z" />
+    <!-- Castle Gate Arch -->
+    <path
+        android:fillColor="#221411"
+        android:pathData="M48,82 L48,66 C48,62.7 50.7,60 54,60 C57.3,60 60,62.7 60,66 L60,82 Z" />
+    <!-- Portcullis grid -->
+    <path
+        android:strokeColor="#784E2D"
+        android:strokeWidth="1.2"
+        android:pathData="M52,62 L52,82 M56,62 L56,82 M48,68 L60,68 M48,74 L60,74" />
+    <!-- Royal Golden Crown floating above -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M40,24 L44,30 L54,20 L64,30 L68,24 L66,35 L42,35 Z" />
+    <!-- Crown Jewels -->
+    <path
+        android:fillColor="#E60000"
+        android:pathData="M54,23 A1.5,1.5 0 1,0 54,20 A1.5,1.5 0 1,0 54,23" />
+    <path
+        android:fillColor="#00BFFF"
+        android:pathData="M41,26 A1.2,1.2 0 1,0 41,23.6 A1.2,1.2 0 1,0 41,26" />
+    <path
+        android:fillColor="#00BFFF"
+        android:pathData="M67,26 A1.2,1.2 0 1,0 67,23.6 A1.2,1.2 0 1,0 67,26" />
+    <!-- Pennant Banner on Towers -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M30,34 L30,26 L23,30 Z" />
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M78,34 L78,26 L85,30 Z" />
+</vector>
